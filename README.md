@@ -60,13 +60,13 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izoxvl&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=blue-green&hide_border=true&order=2" height="265" alt="languages graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/izoxvl/izoxvl/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
 
