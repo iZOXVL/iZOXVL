@@ -55,18 +55,11 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=izoxvl&locale=es&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=izoxvl&locale=es&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="270" alt="streak graph"  />
 </div>
 
 ###
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izoxvl&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=blue-green&hide_border=true&order=2" height="265" alt="languages graph"  />
-</div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/armando-lopez-98083128a/" target="_blank">
